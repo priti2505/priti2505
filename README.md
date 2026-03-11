@@ -19,6 +19,11 @@
 
 ## 🌐 Connect With Me
 
+
+<a href="mailto:patilkomal9420@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 <p>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/komal-patil-764598366/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
