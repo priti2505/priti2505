@@ -20,8 +20,8 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: patilkomal9420@gmail.com
-- 💼 LinkedIn: Add your LinkedIn link
-- 📸 Instagram: Add your Instagram link
+- 💼 LinkedIn:(https://www.linkedin.com/in/komal-patil-764598366/)
+- 📸 Instagram: https://www.instagram.com/k_patil_2505/
 
 ---
 
