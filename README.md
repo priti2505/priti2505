@@ -19,10 +19,15 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: patilkomal9420@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/komal-patil-764598366/)
-- 📸 Instagram: https://www.instagram.com/k_patil_2505/
+<p>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/komal-patil-764598366/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="https://www.instagram.com/https://www.instagram.com/k_patil_2505/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
 ---
 
 ## 🛠 Tech Stack
