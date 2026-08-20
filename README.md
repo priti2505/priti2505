@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Komal Patil</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Learner from India 🇮🇳</h3>
+<h3 align="center">💫 Hi 👋, I'm Durgesh Patil
+
+A passionate Software Developer || Web Developer || Tech Learner from India 🇮🇳
+
+📧 Email Me 👉 ✉️ durgeshpatil5599@gmail.com For Collaboration/Project or Anything Else 😊😊
+
+🔭 I’m currently working on: Web development projects, frontend & backend basics, and improving problem-solving skills
+
+🌱 I’m currently learning: JavaScript, Python, DSA and modern web technologies
+
+👯 I’m looking to collaborate on: Web development projects, beginner-friendly open-source work, and learning-based tech projects
+
+🤔 I’m looking for help with: Backend development, databases, and real-world project guidance
+
+Learning tech every day 💻😄</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Developer;Learning+New+Technologies;Building+Real+World+Projects" />
