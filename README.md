@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Komal Patil</h1>
-<h3 align="center">💫 Hi 👋, I'm Durgesh Patil
+
+<h3 align="center">💫 Hi 👋, I'm komal Patil
 
 A passionate Software Developer || Web Developer || Tech Learner from India 🇮🇳
 
-📧 Email Me 👉 ✉️ durgeshpatil5599@gmail.com For Collaboration/Project or Anything Else 😊😊
+📧 Email Me 👉 ✉️ patilkomal9420@gmail.com For Collaboration/Project or Anything Else 😊😊
 
 🔭 I’m currently working on: Web development projects, frontend & backend basics, and improving problem-solving skills
 
